@@ -15,7 +15,7 @@
             <param value="org.apache.cordova.App" name="android-package" />
         </feature>
 
-	    <icon src="img/icon.png" />
+	    <icon src="img/icon57.png" />
 	    <icon src="img/icon144.png" gap:platform="ios" width="57" height="57" />
 	    <icon src="img/icon144.png" gap:platform="ios" width="72" height="72" />
 	    <icon src="img/icon144.png" gap:platform="ios" width="114" height="114" />
